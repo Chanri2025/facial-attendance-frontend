@@ -14,7 +14,7 @@ const Hero = ({ children }: HeroProps) => {
           </div>
         </div>
         <h1 className="text-5xl md:text-6xl font-bold mb-4 bg-gradient-primary bg-clip-text text-transparent">
-          FaceCheck Attendance
+          Facial Attendance
         </h1>
         <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
           Modern attendance management powered by facial recognition technology
